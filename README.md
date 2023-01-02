@@ -1,1 +1,2 @@
-# document_similarity
+# Flask Application for Document Similarity
+
